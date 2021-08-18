@@ -7,6 +7,6 @@
   <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mumbx" />
 </a>
 
-<a href="https://github.com/ricarthlima/ricarthlima">
+<a href="https://github.com/mumbx/mumbx">
   <img align = "right" src = "https://github-readme-stats.vercel.app/api?username=mumbx&show_icons=true" />
 </a>
